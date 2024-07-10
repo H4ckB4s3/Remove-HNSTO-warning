@@ -4,7 +4,7 @@ This repository demonstrates a simple HTML page displaying "Hello World" with ac
 
 ## Usage
 
-Open `index.html` in a web browser using the hns.to bridge to the HNS.TO warning banner removed.
+Open `index.html` in a web browser using the https://hns.to bridge and the HNS.TO warning banner will be removed.
 
 The JavaScript in `script.js` will remove elements with the following criteria:
 - `<a>` elements with `href="https://www.hns.to"`
