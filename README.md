@@ -17,3 +17,10 @@ The JavaScript in `script.js` will remove elements with the following criteria:
 - `script.js`: Contains the JavaScript code that removes the HNS.TO banner from the DOM.
 - `README.md`: Provides information about the repository.
 
+## Support
+
+For any issues or questions regarding the plugin, please join the [Telegram](https://t.me/h4ckb4se3) .
+
+## License
+
+This plugin is licensed under the GNU General Public License v3.0 
