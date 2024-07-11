@@ -23,4 +23,4 @@ For any issues or questions regarding the plugin, please join the [Telegram](htt
 
 ## License
 
-This plugin is licensed under the GNU General Public License v3.0 
+No license, no limits. Free to use, abuse and improve this code however you see fit.
