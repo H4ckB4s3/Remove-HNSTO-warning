@@ -15,10 +15,6 @@ Add this ine the header:
 </style>
 ```
 
-## Support
-
-For any issues or questions regarding the plugin, please join the [Telegram](https://t.me/h4ckb4se3) .
-
 ## License
 
 No license, no limits. Free to use, abuse and improve this code however you see fit.
