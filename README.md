@@ -4,7 +4,7 @@ This repository demonstrates a simple HTML page displaying "Hello World" with ac
 
 ## Usage
 
-Add this ine the header:
+Add this in the header:
 ```  
 <style>
   a[href="https://www.hns.to"],
